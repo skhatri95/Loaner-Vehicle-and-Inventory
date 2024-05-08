@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="DELETE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description>Loaner Vehicle and Inventory Catalogs</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager display_value="Sameer Khatri">6816f79cc0a8016401c5a33be04be441</manager>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 19:36:51</sys_created_on>
+        <sys_id>9255b6e54702c290bd3cb616536d43c4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loaner Vehicle and Inventory</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sc_catalog_9255b6e54702c290bd3cb616536d43c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 19:38:09</sys_updated_on>
+        <title>Loaner Vehicle and Inventory</title>
+    </sc_catalog>
+    <sys_translated_text action="DELETE" query="documentkey=9255b6e54702c290bd3cb616536d43c4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sc_catalog_9255b6e54702c290bd3cb616536d43c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog"><sc_catalog action="INSERT_OR_UPDATE"><active>true</active><background_color>white</background_color><description>Loaner Vehicle and Inventory Catalogs</description><desktop_continue_shopping/><desktop_home_page/><desktop_image/><editors/><enable_wish_list>false</enable_wish_list><manager display_value="Sameer Khatri">6816f79cc0a8016401c5a33be04be441</manager><sys_class_name>sc_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-08 19:36:51</sys_created_on><sys_id>9255b6e54702c290bd3cb616536d43c4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Loaner Vehicle and Inventory</sys_name><sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope><sys_update_name>sc_catalog_9255b6e54702c290bd3cb616536d43c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-08 19:38:09</sys_updated_on><title>Loaner Vehicle and Inventory</title></sc_catalog><sys_translated_text action="delete_multiple" query="documentkey=9255b6e54702c290bd3cb616536d43c4"/></record_update>]]></payload>
+        <payload_hash>830505300</payload_hash>
+        <record_name>Loaner Vehicle and Inventory</record_name>
+        <reverted_from/>
+        <source>3633f11d47864290bd3cb616536d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 19:38:09</sys_created_on>
+        <sys_id>cfb5bee54702c290bd3cb616536d4321</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f59b695e00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 19:38:09</sys_updated_on>
+        <type>Catalog</type>
+        <update_guid>47b5bee53802c290a203e2e14a340d21</update_guid>
+        <update_guid_history>47b5bee53802c290a203e2e14a340d21:830505300,80753ae55c02c290e912320e58eaf1a5:-709129138</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Vehicle and Inventory">37587ea94702c290bd3cb616536d4310</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 19:49:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog">sc_catalog</sys_db_object>
+        <sys_id>278e3634cf214c98968c5b48008a1c40</sys_id>
+        <sys_metadata>9255b6e54702c290bd3cb616536d43c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle and Inventory</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_scope_delete display_value="">34a7200db04c4edc9a825da53589b664</sys_scope_delete>
+        <sys_update_name>sc_catalog_9255b6e54702c290bd3cb616536d43c4</sys_update_name>
+        <sys_update_version display_value="sc_catalog_9255b6e54702c290bd3cb616536d43c4">cfb5bee54702c290bd3cb616536d4321</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 19:49:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Imp Tmpl X 1189834 Loaner 0 Loaner Vehicle Catalog</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">c56370e03c31311068bcf327dfe37f82</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-07 21:06:26</sys_created_on>
+        <sys_id>ae50429d47c64290bd3cb616536d4352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 1189834 Loaner 0 Loaner Vehicle Catalog</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sys_db_object_ae50429d47c64290bd3cb616536d4352</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-07 21:06:26</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sys_db_object_ae50429d47c64290bd3cb616536d4352</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Imp Tmpl X 1189834 Loaner 0 Loaner Vehicle Catalog</label><live_feed_enabled>false</live_feed_enabled><name>u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">c56370e03c31311068bcf327dfe37f82</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:26</sys_created_on><sys_id>ae50429d47c64290bd3cb616536d4352</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imp Tmpl X 1189834 Loaner 0 Loaner Vehicle Catalog</sys_name><sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope><sys_update_name>sys_db_object_ae50429d47c64290bd3cb616536d4352</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:26</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-211804238</payload_hash>
+        <record_name>Imp Tmpl X 1189834 Loaner 0 Loaner Vehicle Catalog</record_name>
+        <reverted_from/>
+        <source>3633f11d47864290bd3cb616536d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-07 21:06:27</sys_created_on>
+        <sys_id>7e50429d47c64290bd3cb616536d4375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f54e111820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-07 21:06:27</sys_updated_on>
+        <type>Table</type>
+        <update_guid>b250429d69c6429094461cb0dc15bb75</update_guid>
+        <update_guid_history>b250429d69c6429094461cb0dc15bb75:-211804238</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 00:07:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>40d480ef731e4c95871a5e521e247e31</sys_id>
+        <sys_metadata>ae50429d47c64290bd3cb616536d4352</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 1189834 Loaner 0 Loaner Vehicle Catalog</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_scope_delete display_value="">34a7200db04c4edc9a825da53589b664</sys_scope_delete>
+        <sys_update_name>sys_db_object_ae50429d47c64290bd3cb616536d4352</sys_update_name>
+        <sys_update_version display_value="sys_db_object_ae50429d47c64290bd3cb616536d4352">7e50429d47c64290bd3cb616536d4375</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 00:07:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

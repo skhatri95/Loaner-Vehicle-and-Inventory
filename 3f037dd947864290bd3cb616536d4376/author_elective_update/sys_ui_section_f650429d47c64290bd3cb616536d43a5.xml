@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="f650429d47c64290bd3cb616536d43a5" sys_domain="global" table="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4f50429d47c64290bd3cb616536d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4b50429d47c64290bd3cb616536d43a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vehicle_year</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4350429d47c64290bd3cb616536d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vehicle_make</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4b50429d47c64290bd3cb616536d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4350429d47c64290bd3cb616536d43a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_status</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4b50429d47c64290bd3cb616536d43a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_image</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4350429d47c64290bd3cb616536d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vehicle_model</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4b50429d47c64290bd3cb616536d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4350429d47c64290bd3cb616536d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vehicle_description</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4b50429d47c64290bd3cb616536d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log.message</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_id>4350429d47c64290bd3cb616536d43ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f650429d47c64290bd3cb616536d43a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+            <sys_update_name>sys_ui_section_f650429d47c64290bd3cb616536d43a5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sys_ui_section_f650429d47c64290bd3cb616536d43a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="f650429d47c64290bd3cb616536d43a5" sys_domain="global" table="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4f50429d47c64290bd3cb616536d43a6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_number</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4b50429d47c64290bd3cb616536d43a7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_vehicle_year</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4350429d47c64290bd3cb616536d43a8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_vehicle_make</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4b50429d47c64290bd3cb616536d43a8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4350429d47c64290bd3cb616536d43a9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_status</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4b50429d47c64290bd3cb616536d43a9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_image</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4350429d47c64290bd3cb616536d43aa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_vehicle_model</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4b50429d47c64290bd3cb616536d43aa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4350429d47c64290bd3cb616536d43ab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_vehicle_description</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4b50429d47c64290bd3cb616536d43ab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>template_import_log.message</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_id>4350429d47c64290bd3cb616536d43ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog" sys_domain="global" view="Default view">f650429d47c64290bd3cb616536d43a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 21:06:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f650429d47c64290bd3cb616536d43a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope><sys_update_name>sys_ui_section_f650429d47c64290bd3cb616536d43a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 21:06:28</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1122687543</payload_hash>
+        <record_name>Imp Tmpl X 1189834 Loaner 0 Loaner Vehicle Catalog</record_name>
+        <reverted_from/>
+        <source>3633f11d47864290bd3cb616536d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-07 21:06:28</sys_created_on>
+        <sys_id>8f50429d47c64290bd3cb616536d43ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f54e115430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-07 21:06:28</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>0750429dbec642903ca83fc4bf97e5ae</update_guid>
+        <update_guid_history>0750429dbec642903ca83fc4bf97e5ae:1122687543</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 00:07:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>68231b5e516c43bc87ce09c4f31ca581</sys_id>
+        <sys_metadata>f650429d47c64290bd3cb616536d43a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_x_1189834_loaner_0_loaner_vehicle_catalog</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_parent display_value="">ae50429d47c64290bd3cb616536d4352</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_scope_delete display_value="">34a7200db04c4edc9a825da53589b664</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f650429d47c64290bd3cb616536d43a5</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f650429d47c64290bd3cb616536d43a5">8f50429d47c64290bd3cb616536d43ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 00:07:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
