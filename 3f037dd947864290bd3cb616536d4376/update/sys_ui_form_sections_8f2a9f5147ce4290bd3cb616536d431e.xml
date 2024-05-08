@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8f2a9f5147ce4290bd3cb616536d431e" sys_domain="global" table="x_1189834_loaner_0_vehicle_tracker" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-08 03:38:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f2a9f5147ce4290bd3cb616536d4320</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1189834_loaner_0_vehicle_tracker" name="x_1189834_loaner_0_vehicle_tracker" sys_domain="global" view="Default view">8f2a9f5147ce4290bd3cb616536d431e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_loaner_0_vehicle_tracker" sys_domain="global" view="Default view">aa7cee1547ca4290bd3cb616536d435e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-08 03:38:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-08 03:38:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c72adf9147ce4290bd3cb616536d43a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1189834_loaner_0_vehicle_tracker" name="x_1189834_loaner_0_vehicle_tracker" sys_domain="global" view="Default view">8f2a9f5147ce4290bd3cb616536d431e</sys_ui_form>
+            <sys_ui_section caption="Return Details" display_value="Return Details" name="x_1189834_loaner_0_vehicle_tracker" sys_domain="global" view="Default view">4b2a9f5147ce4290bd3cb616536d4321</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-08 03:38:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-08 03:40:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8aa1b9147ce4290bd3cb616536d4369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1189834_loaner_0_vehicle_tracker" name="x_1189834_loaner_0_vehicle_tracker" sys_domain="global" view="Default view">8f2a9f5147ce4290bd3cb616536d431e</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1189834_loaner_0_vehicle_tracker" sys_domain="global" view="Default view">68aa1b9147ce4290bd3cb616536d4367</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-08 03:40:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1189834_loaner_0_vehicle_tracker</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-08 03:38:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f2a9f5147ce4290bd3cb616536d431e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1189834_loaner_0_vehicle_tracker</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8f2a9f5147ce4290bd3cb616536d431e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-08 03:38:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
