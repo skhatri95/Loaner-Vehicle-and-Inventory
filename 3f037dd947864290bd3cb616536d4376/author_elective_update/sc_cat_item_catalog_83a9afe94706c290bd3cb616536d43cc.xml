@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request Loaner Vehicle">c2796be94706c290bd3cb616536d4326</sc_cat_item>
+        <sc_catalog display_value="Loaner Vehicle and Inventory">d8096fa94706c290bd3cb616536d438c</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 23:25:05</sys_created_on>
+        <sys_id>83a9afe94706c290bd3cb616536d43cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle and Inventory.Request Loaner Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_83a9afe94706c290bd3cb616536d43cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 23:25:05</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sc_cat_item_catalog_83a9afe94706c290bd3cb616536d43cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request Loaner Vehicle">c2796be94706c290bd3cb616536d4326</sc_cat_item><sc_catalog display_value="Loaner Vehicle and Inventory">d8096fa94706c290bd3cb616536d438c</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-08 23:25:05</sys_created_on><sys_id>83a9afe94706c290bd3cb616536d43cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Vehicle and Inventory.Request Loaner Vehicle</sys_name><sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope><sys_update_name>sc_cat_item_catalog_83a9afe94706c290bd3cb616536d43cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-08 23:25:05</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>586864995</payload_hash>
+        <record_name>Loaner Vehicle and Inventory.Request Loaner Vehicle</record_name>
+        <reverted_from/>
+        <source>3633f11d47864290bd3cb616536d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 23:25:05</sys_created_on>
+        <sys_id>87a9afe94706c290bd3cb616536d43cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f5a8658da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 23:25:05</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8ba9afe93d06c290d9e3a78a8693acce</update_guid>
+        <update_guid_history>8ba9afe93d06c290d9e3a78a8693acce:586864995</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Vehicle and Inventory.Request Loaner Vehicle">0d0da3614746c290bd3cb616536d434e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 23:39:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>4da111f55978469096102afa25287100</sys_id>
+        <sys_metadata>83a9afe94706c290bd3cb616536d43cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle and Inventory.Request Loaner Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_parent display_value="Request Loaner Vehicle">c2796be94706c290bd3cb616536d4326</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_scope_delete display_value="">34a7200db04c4edc9a825da53589b664</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_83a9afe94706c290bd3cb616536d43cc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_83a9afe94706c290bd3cb616536d43cc">87a9afe94706c290bd3cb616536d43cf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 23:39:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

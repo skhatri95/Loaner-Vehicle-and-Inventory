@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-05-31 16:51:28">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 21:16:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>194c87a54782c290bd3cb616536d4310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_loaner_vehicle_and_inventory_catalog</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sys_portal_page_194c87a54782c290bd3cb616536d4310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 21:16:37</sys_updated_on>
+        <title>catalog_loaner_vehicle_and_inventory_catalog</title>
+        <user/>
+        <view>catalog_loaner_vehicle_and_inventory_catalog</view>
+    </sys_portal_page>
+</record_update>
