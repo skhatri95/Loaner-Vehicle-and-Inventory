@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_header_footer">
+    <sp_header_footer action="DELETE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {
+  /* widget controller */
+  var c = this;
+};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>body {&#13;
+    font-family: Arial, sans-serif;&#13;
+    margin: 0;&#13;
+    padding: 0;&#13;
+    box-sizing: border-box;&#13;
+}&#13;
+&#13;
+header {&#13;
+    background-color: #333;&#13;
+    color: #fff;&#13;
+    padding: 10px 0;&#13;
+}&#13;
+&#13;
+.navbar {&#13;
+    display: flex;&#13;
+    justify-content: space-between;&#13;
+    align-items: center;&#13;
+    max-width: 1200px;&#13;
+    margin: 0 auto;&#13;
+    padding: 0 20px;&#13;
+}&#13;
+&#13;
+.logo img {&#13;
+    width: 100px;&#13;
+}&#13;
+&#13;
+.nav-links {&#13;
+    list-style: none;&#13;
+    display: flex;&#13;
+    margin: 0;&#13;
+    padding: 0;&#13;
+}&#13;
+&#13;
+.nav-links li {&#13;
+    margin-left: 20px;&#13;
+}&#13;
+&#13;
+.nav-links a {&#13;
+    color: #fff;&#13;
+    text-decoration: none;&#13;
+    font-size: 16px;&#13;
+    padding: 5px 10px;&#13;
+    transition: background-color 0.3s;&#13;
+}&#13;
+&#13;
+.nav-links a:hover {&#13;
+    background-color: #575757;&#13;
+    border-radius: 5px;&#13;
+}&#13;
+</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>loaner_vehicle_header_menu</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>Loaner Vehicle Header Menu</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <static>false</static>
+        <sys_class_name>sp_header_footer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 21:18:55</sys_created_on>
+        <sys_id>c9f8ed8147664a50bd3cb616536d4365</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loaner Vehicle Header Menu</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sp_header_footer_c9f8ed8147664a50bd3cb616536d4365</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 21:19:52</sys_updated_on>
+        <template><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ServiceNow Service Portal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <img src="company-logo.png" alt="Company Logo">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#loan-vehicle">Loan a Vehicle</a></li>
+                <li><a href="#warehouse-articles">Warehouse Articles</a></li>
+                <li><a href="#available-vehicles">Available Vehicles</a></li>
+            </ul>
+        </nav>
+    </header>
+</body>
+</html>]]></template>
+    </sp_header_footer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_header_footer_c9f8ed8147664a50bd3cb616536d4365</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_header_footer"&gt;&lt;sp_header_footer action="INSERT_OR_UPDATE"&gt;&lt;category&gt;custom&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[api.controller=function() {
+  /* widget controller */
+  var c = this;
+};]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;body {&amp;#13;
+    font-family: Arial, sans-serif;&amp;#13;
+    margin: 0;&amp;#13;
+    padding: 0;&amp;#13;
+    box-sizing: border-box;&amp;#13;
+}&amp;#13;
+&amp;#13;
+header {&amp;#13;
+    background-color: #333;&amp;#13;
+    color: #fff;&amp;#13;
+    padding: 10px 0;&amp;#13;
+}&amp;#13;
+&amp;#13;
+.navbar {&amp;#13;
+    display: flex;&amp;#13;
+    justify-content: space-between;&amp;#13;
+    align-items: center;&amp;#13;
+    max-width: 1200px;&amp;#13;
+    margin: 0 auto;&amp;#13;
+    padding: 0 20px;&amp;#13;
+}&amp;#13;
+&amp;#13;
+.logo img {&amp;#13;
+    width: 100px;&amp;#13;
+}&amp;#13;
+&amp;#13;
+.nav-links {&amp;#13;
+    list-style: none;&amp;#13;
+    display: flex;&amp;#13;
+    margin: 0;&amp;#13;
+    padding: 0;&amp;#13;
+}&amp;#13;
+&amp;#13;
+.nav-links li {&amp;#13;
+    margin-left: 20px;&amp;#13;
+}&amp;#13;
+&amp;#13;
+.nav-links a {&amp;#13;
+    color: #fff;&amp;#13;
+    text-decoration: none;&amp;#13;
+    font-size: 16px;&amp;#13;
+    padding: 5px 10px;&amp;#13;
+    transition: background-color 0.3s;&amp;#13;
+}&amp;#13;
+&amp;#13;
+.nav-links a:hover {&amp;#13;
+    background-color: #575757;&amp;#13;
+    border-radius: 5px;&amp;#13;
+}&amp;#13;
+&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;loaner_vehicle_header_menu&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link&gt;&lt;![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]&gt;&lt;/link&gt;&lt;name&gt;Loaner Vehicle Header Menu&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;true&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;false&lt;/servicenow&gt;&lt;static&gt;false&lt;/static&gt;&lt;sys_class_name&gt;sp_header_footer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-05-31 21:18:55&lt;/sys_created_on&gt;&lt;sys_id&gt;c9f8ed8147664a50bd3cb616536d4365&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Loaner Vehicle Header Menu&lt;/sys_name&gt;&lt;sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0"&gt;3f037dd947864290bd3cb616536d4376&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Vehicle and Inventory"&gt;3f037dd947864290bd3cb616536d4376&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_header_footer_c9f8ed8147664a50bd3cb616536d4365&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-05-31 21:19:52&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;ServiceNow Service Portal&lt;/title&gt;
+    &lt;link rel="stylesheet" href="styles.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;header&gt;
+        &lt;nav class="navbar"&gt;
+            &lt;div class="logo"&gt;
+                &lt;img src="company-logo.png" alt="Company Logo"&gt;
+            &lt;/div&gt;
+            &lt;ul class="nav-links"&gt;
+                &lt;li&gt;&lt;a href="#loan-vehicle"&gt;Loan a Vehicle&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="#warehouse-articles"&gt;Warehouse Articles&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="#available-vehicles"&gt;Available Vehicles&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/nav&gt;
+    &lt;/header&gt;
+&lt;/body&gt;
+&lt;/html&gt;]]&gt;&lt;/template&gt;&lt;/sp_header_footer&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>501022148</payload_hash>
+        <record_name>Loaner Vehicle Header Menu</record_name>
+        <reverted_from/>
+        <source>3633f11d47864290bd3cb616536d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 21:19:52</sys_created_on>
+        <sys_id>09996dc147664a50bd3cb616536d43ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fd085f9c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 21:19:52</sys_updated_on>
+        <type>Header | Footer</type>
+        <update_guid>8d996dc1ee664a50c0cc449c68a074b9</update_guid>
+        <update_guid_history>8d996dc1ee664a50c0cc449c68a074b9:501022148,df596d8121664a500cff0caf6f6a5853:1801723421</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Vehicle Header Menu">f8f9250547664a50bd3cb616536d4326</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 21:21:29</sys_created_on>
+        <sys_db_object display_value="" name="sp_header_footer">sp_header_footer</sys_db_object>
+        <sys_id>74c526e11cee47848ca76b78c7f6d810</sys_id>
+        <sys_metadata>c9f8ed8147664a50bd3cb616536d4365</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Header Menu</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_scope_delete display_value="">34a7200db04c4edc9a825da53589b664</sys_scope_delete>
+        <sys_update_name>sp_header_footer_c9f8ed8147664a50bd3cb616536d4365</sys_update_name>
+        <sys_update_version display_value="sp_header_footer_c9f8ed8147664a50bd3cb616536d4365">09996dc147664a50bd3cb616536d43ba</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 21:21:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

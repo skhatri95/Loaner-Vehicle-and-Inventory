@@ -10,23 +10,23 @@ $gray: lighten($gray-base, 29.02%);&#13;
 &#13;
 ////// Branding variables //////&#13;
 // should always end with !default and no other variable should have !default&#13;
-$brand-primary: #1F8476 !default;&#13;
+$brand-primary: #8B0000;&#13;
 $body-bg: #ffffff !default;&#13;
 $brand-success: #48C891 !default;&#13;
 $state-success-text: darken(desaturate(adjust-hue($brand-success, 3), 15.64%), 34.31) !default;&#13;
 $sp-navbar-divider-color: #5A7F71 !default;&#13;
 $text-color: $gray-dark !default;&#13;
 $navbar-inverse-link-hover-color: #303636 !default;&#13;
-$navbar-inverse-bg: #293e40 !default;&#13;
+$navbar-inverse-bg: #8B0000;&#13;
 $brand-warning: #DFD139 !default;&#13;
 $brand-danger: #C83C36 !default;&#13;
 $sp-tagline-color: #ffffff !default;&#13;
 $navbar-inverse-link-active-color: $sp-tagline-color !default;&#13;
-$navbar-inverse-link-color: #A7B0B2 !default;&#13;
+$navbar-inverse-link-color: #F8F8FF;&#13;
 $brand-info: #6ABECF !default;&#13;
 $link-color: $brand-primary !default;&#13;
 $sp-logo-margin-x: 15px !default;&#13;
-$text-muted: $gray-light !default;&#13;
+$text-muted: $grey-dark !default;&#13;
 ////////////////////////////////////&#13;
 &#13;
 // Link hover decoration&#13;
@@ -164,7 +164,7 @@ $accessible-placeholder-gray: #565656;&#13;
 &#13;
 &#13;
 </css_variables>
-        <footer/>
+        <footer display_value="Loaner Vehicle Footer">d423c94d47624a50bd3cb616536d43af</footer>
         <footer_fixed>false</footer_fixed>
         <header display_value="Stock Header">bf5ec2f2cb10120000f8d856634c9c0c</header>
         <name>Loaner vehicle theme</name>
@@ -173,14 +173,14 @@ $accessible-placeholder-gray: #565656;&#13;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-05-31 16:36:26</sys_created_on>
         <sys_id>11b8648947ee0a50bd3cb616536d4397</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Loaner vehicle theme</sys_name>
         <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
         <sys_update_name>sp_theme_11b8648947ee0a50bd3cb616536d4397</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-31 16:36:42</sys_updated_on>
+        <sys_updated_on>2024-05-31 21:46:11</sys_updated_on>
         <turn_off_scss_compilation>false</turn_off_scss_compilation>
     </sp_theme>
 </record_update>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <display_field/>
+        <field_list>number,team_name,coach,coach_email,category,achievements</field_list>
+        <filter/>
+        <glyph>home</glyph>
+        <id/>
+        <maximum_entries>10</maximum_entries>
+        <order>2</order>
+        <order_by>number</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a99778cd47224a50bd3cb616536d4341</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 17:41:26</sys_created_on>
+        <sys_id>ed9778cd47224a50bd3cb616536d4348</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Teams - Community Soccer League</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sp_instance_table_ed9778cd47224a50bd3cb616536d4348</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 18:13:48</sys_updated_on>
+        <table>x_1189834_teampu_0_team</table>
+        <title>Teams - Community Soccer League</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=ed9778cd47224a50bd3cb616536d4348"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_instance_table_ed9778cd47224a50bd3cb616536d4348</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>primary</color><css/><display_field/><field_list>number,team_name,coach,coach_email,category,achievements</field_list><filter/><glyph>home</glyph><id/><maximum_entries>10</maximum_entries><order>2</order><order_by>number</order_by><order_direction>desc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">a99778cd47224a50bd3cb616536d4341</sp_column><sp_page/><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-31 17:41:26</sys_created_on><sys_id>ed9778cd47224a50bd3cb616536d4348</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Teams - Community Soccer League</sys_name><sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope><sys_update_name>sp_instance_table_ed9778cd47224a50bd3cb616536d4348</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-31 18:13:48</sys_updated_on><table>x_1189834_teampu_0_team</table><title>Teams - Community Soccer League</title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=ed9778cd47224a50bd3cb616536d4348"/></record_update>]]></payload>
+        <payload_hash>1618154401</payload_hash>
+        <record_name>Teams - Community Soccer League</record_name>
+        <reverted_from/>
+        <source>3633f11d47864290bd3cb616536d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 18:13:48</sys_created_on>
+        <sys_id>e3fe784947624a50bd3cb616536d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fcfdba1410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 18:13:48</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>6bfe7849aa624a50f9f8d01b1bc11ffb</update_guid>
+        <update_guid_history>6bfe7849aa624a50f9f8d01b1bc11ffb:1618154401,2d9778cdb7224a50a7425a1efe0d804a:949332002</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Teams - Community Soccer League">e6cff88947624a50bd3cb616536d43f6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 18:17:17</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>2f99d5f6bc564b40ac9495e28ff9b344</sys_id>
+        <sys_metadata>ed9778cd47224a50bd3cb616536d4348</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teams - Community Soccer League</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_scope_delete display_value="">34a7200db04c4edc9a825da53589b664</sys_scope_delete>
+        <sys_update_name>sp_instance_table_ed9778cd47224a50bd3cb616536d4348</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_ed9778cd47224a50bd3cb616536d4348">e3fe784947624a50bd3cb616536d43fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 18:17:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

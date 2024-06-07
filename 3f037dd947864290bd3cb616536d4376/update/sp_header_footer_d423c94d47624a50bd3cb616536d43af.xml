@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_header_footer">
+    <sp_header_footer action="INSERT_OR_UPDATE">
+        <category>sample</category>
+        <client_script/>
+        <controller_as>c</controller_as>
+        <css>/* footer section start */
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	box-sizing:border-box;
+}
+body{
+	background: #fff;
+  max-width:1920px;
+  margin:0 auto;
+	overflow-x:hidden;
+}
+#footer{
+	background: #f7f7f7;
+  padding: 1rem;
+}
+
+.useful-link h2{
+	padding-bottom: 15px;
+	font-size: 20px;
+  font-weight: 600;
+}
+
+.use-links li a:hover{
+	color: #000;
+}
+
+.copy-right-sec{
+  padding: 1rem;
+  background: #8B0000;
+  color: #fff;
+  text-align: center;
+}
+.copy-right-sec a{
+	color: #fcd462;
+  font-weight: 500;
+}
+
+a{
+  text-decoration:none;
+}
+
+p{
+	font-size: 15px;
+  font-weight: 500;
+}
+/* footer section end */</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>Loaner Vehicle Footer</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+ data.time = new GlideDateTime().getDisplayValue();
+})();]]></script>
+        <servicenow>false</servicenow>
+        <static>false</static>
+        <sys_class_name>sp_header_footer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 18:31:52</sys_created_on>
+        <sys_id>d423c94d47624a50bd3cb616536d43af</sys_id>
+        <sys_mod_count>86</sys_mod_count>
+        <sys_name>Loaner Vehicle Footer</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sp_header_footer_d423c94d47624a50bd3cb616536d43af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 02:52:27</sys_updated_on>
+        <template><![CDATA[<!-- footer section start -->
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <img src="loaner%20vehicle%20logo.png" style="width: 150px;" alt="Loaner Vehicle Logo" class="logo">
+      </div>
+      <div class="col-md-3">
+        <div class="useful-link">
+          <div class="use-links">
+            <h3>Address</h3>
+            <p>123 Tech Street,<br />Lewisville, TX 75067</p>
+          </div>
+        </div>
+    </div>
+      <div class="col-md-3">
+        <div class="useful-link">
+          <div class="use-links">
+            <h3>Contact IT</h3>
+            <p>Email: it@loanervehicle.com<br />
+            Phone: (999) 000-7891</p>
+          </div>
+        </div>
+    </div>
+      <div class="col-md-3">
+        <div class="useful-link">
+          <div class="use-links">
+            <h3>Contact Security</h3>
+            <p>Email: security@loanervehicle.com<br />
+            Phone: (999) 000-7891</p>
+          </div>
+        </div>
+    </div>
+  </div>
+  </div>
+</footer>
+<!-- footer section end -->
+<!-- footer copy right section start -->
+<section id="copy-right">  
+  <div class="copy-right-sec">
+    <p>&copy; 2024 Loaner Vehicle and Inventory. All Rights Reserved.</p>
+  </div>
+</section>
+<!-- footer copy right section end -->]]></template>
+    </sp_header_footer>
+</record_update>
