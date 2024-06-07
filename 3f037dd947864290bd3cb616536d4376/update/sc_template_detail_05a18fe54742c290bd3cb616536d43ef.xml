@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_template_detail">
+    <sc_template_detail action="INSERT_OR_UPDATE">
+        <applies_to_multi_row_variable_set>true</applies_to_multi_row_variable_set>
+        <item_option_new/>
+        <mandatory>false</mandatory>
+        <readonly>false</readonly>
+        <restricted>false</restricted>
+        <set display_value="Catalogs M2M">f60605f673221010c84e2bb43cf6a769</set>
+        <sys_class_name>sc_template_detail</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 20:30:10</sys_created_on>
+        <sys_id>05a18fe54742c290bd3cb616536d43ef</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sc_template_detail_05a18fe54742c290bd3cb616536d43ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 20:31:05</sys_updated_on>
+        <template/>
+        <value>[{"sc_catalog_record":"e0d08b13c3330100c8b837659bba8fb4"}]</value>
+    </sc_template_detail>
+</record_update>

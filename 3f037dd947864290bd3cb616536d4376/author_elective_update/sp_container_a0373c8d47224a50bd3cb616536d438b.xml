@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>breadcrumbs-container</class_name>
+        <container_class_name/>
+        <name>Copy of CSL Service Catalog (1) - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="copy_of_csl_sc_home_1">6c37b8c947224a50bd3cb616536d4331</sp_page>
+        <subheader>true</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 17:39:44</sys_created_on>
+        <sys_id>a0373c8d47224a50bd3cb616536d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of CSL Service Catalog (1) - Container 1</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sp_container_a0373c8d47224a50bd3cb616536d438b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 17:39:44</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_container_a0373c8d47224a50bd3cb616536d438b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>breadcrumbs-container</class_name><container_class_name/><name>Copy of CSL Service Catalog (1) - Container 1</name><order>1</order><semantic_tag/><sp_page display_value="copy_of_csl_sc_home_1">6c37b8c947224a50bd3cb616536d4331</sp_page><subheader>true</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-31 17:39:44</sys_created_on><sys_id>a0373c8d47224a50bd3cb616536d438b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Copy of CSL Service Catalog (1) - Container 1</sys_name><sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope><sys_update_name>sp_container_a0373c8d47224a50bd3cb616536d438b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-31 17:39:44</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-912289348</payload_hash>
+        <record_name>Copy of CSL Service Catalog (1) - Container 1</record_name>
+        <reverted_from/>
+        <source>3633f11d47864290bd3cb616536d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 17:39:44</sys_created_on>
+        <sys_id>ac373c8d47224a50bd3cb616536d438d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fcfbc71290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 17:39:44</sys_updated_on>
+        <type>Container</type>
+        <update_guid>a0373c8d50224a50bc52a9a718f5428d</update_guid>
+        <update_guid_history>a0373c8d50224a50bc52a9a718f5428d:-912289348</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of CSL Service Catalog (1) - Container 1">fb377c8d47224a50bd3cb616536d43d9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 17:39:58</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>03a017469f20419c800d8998c9ad4a10</sys_id>
+        <sys_metadata>a0373c8d47224a50bd3cb616536d438b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of CSL Service Catalog (1) - Container 1</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_scope_delete display_value="">34a7200db04c4edc9a825da53589b664</sys_scope_delete>
+        <sys_update_name>sp_container_a0373c8d47224a50bd3cb616536d438b</sys_update_name>
+        <sys_update_version display_value="sp_container_a0373c8d47224a50bd3cb616536d438b">ac373c8d47224a50bd3cb616536d438d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 17:39:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

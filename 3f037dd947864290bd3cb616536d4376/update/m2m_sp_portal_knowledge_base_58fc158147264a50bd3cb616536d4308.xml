@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_knowledge_base">
+    <m2m_sp_portal_knowledge_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <kb_knowledge_base display_value="Loaner Vehicle General Knowledge">278d890d47a24a50bd3cb616536d43fc</kb_knowledge_base>
+        <order>100</order>
+        <sp_portal display_value="Loaner Vehicle Warehouse">8e4cd47c47aac650bd3cb616536d4336</sp_portal>
+        <sys_class_name>m2m_sp_portal_knowledge_base</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 20:24:39</sys_created_on>
+        <sys_id>58fc158147264a50bd3cb616536d4308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle General Knowledge.Loaner Vehicle Warehouse</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>m2m_sp_portal_knowledge_base_58fc158147264a50bd3cb616536d4308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 20:24:39</sys_updated_on>
+    </m2m_sp_portal_knowledge_base>
+</record_update>

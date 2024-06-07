@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>homepage-quicklinks</class_name>
+        <container_class_name/>
+        <name>Loaner Vehicle Homepage - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="loaner_vehicle">1997bc8d47224a50bd3cb616536d4356</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 17:41:26</sys_created_on>
+        <sys_id>659778cd47224a50bd3cb616536d4318</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Loaner Vehicle Homepage - Container 2</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sp_container_659778cd47224a50bd3cb616536d4318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 18:18:01</sys_updated_on>
+        <title>Quick Links</title>
+        <width>container</width>
+    </sp_container>
+</record_update>
