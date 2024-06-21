@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Loaner Vehicle Dashboard Page - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="loaner_vehicle_dashboard_page">65381d8947e24a50bd3cb616536d43a0</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 17:51:54</sys_created_on>
+        <sys_id>ef5305bb47fa4e50bd3cb616536d43df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Dashboard Page - Container 1</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sp_container_ef5305bb47fa4e50bd3cb616536d43df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 17:51:54</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_container_ef5305bb47fa4e50bd3cb616536d43df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Loaner Vehicle Dashboard Page - Container 1</name><order>1</order><semantic_tag/><sp_page display_value="loaner_vehicle_dashboard_page">65381d8947e24a50bd3cb616536d43a0</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-21 17:51:54</sys_created_on><sys_id>ef5305bb47fa4e50bd3cb616536d43df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Vehicle Dashboard Page - Container 1</sys_name><sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope><sys_update_name>sp_container_ef5305bb47fa4e50bd3cb616536d43df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-21 17:51:54</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1032582910</payload_hash>
+        <record_name>Loaner Vehicle Dashboard Page - Container 1</record_name>
+        <reverted_from/>
+        <source>3633f11d47864290bd3cb616536d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 17:51:54</sys_created_on>
+        <sys_id>e75305bb47fa4e50bd3cb616536d43e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903bed20100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 17:51:54</sys_updated_on>
+        <type>Container</type>
+        <update_guid>eb5305bbb7fa4e504535b4253659ede1</update_guid>
+        <update_guid_history>eb5305bbb7fa4e504535b4253659ede1:-1032582910</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Vehicle Dashboard Page - Container 1">40a3c17b47fa4e50bd3cb616536d4392</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 17:53:02</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>857d7eb842c74de689a3f281b6e92984</sys_id>
+        <sys_metadata>ef5305bb47fa4e50bd3cb616536d43df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Dashboard Page - Container 1</sys_name>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_scope_delete display_value="">34a7200db04c4edc9a825da53589b664</sys_scope_delete>
+        <sys_update_name>sp_container_ef5305bb47fa4e50bd3cb616536d43df</sys_update_name>
+        <sys_update_version display_value="sp_container_ef5305bb47fa4e50bd3cb616536d43df">e75305bb47fa4e50bd3cb616536d43e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 17:53:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">7e885dc947e24a50bd3cb616536d4368</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 20:05:28</sys_created_on>
+        <sys_id>97881dc947e24a50bd3cb616536d4307</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_update_name>sp_instance_97881dc947e24a50bd3cb616536d4307</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 19:00:58</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p><iframe style=\"overflow: hidden; height: 1200px; width: 100%;\" src=\"$pa_dashboard.do?sysparm_dashboard=aed0954147e24a50bd3cb616536d43af&amp;\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe></p>",
+		"displayValue": "<p><iframe style=\"overflow: hidden; height: 1200px; width: 100%;\" src=\"$pa_dashboard.do?sysparm_dashboard=aed0954147e24a50bd3cb616536d43af&amp;\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=97881dc947e24a50bd3cb616536d4307"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_instance_97881dc947e24a50bd3cb616536d4307</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;7e885dc947e24a50bd3cb616536d4368&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-05-31 20:05:28&lt;/sys_created_on&gt;&lt;sys_id&gt;97881dc947e24a50bd3cb616536d4307&lt;/sys_id&gt;&lt;sys_mod_count&gt;10&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0"&gt;3f037dd947864290bd3cb616536d4376&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Vehicle and Inventory"&gt;3f037dd947864290bd3cb616536d4376&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_97881dc947e24a50bd3cb616536d4307&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-07 19:00:58&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;p&gt;&lt;iframe style=\"overflow: hidden; height: 1200px; width: 100%;\" src=\"$pa_dashboard.do?sysparm_dashboard=aed0954147e24a50bd3cb616536d43af&amp;amp;\" width=\"100%\" height=\"100%\" frameborder=\"0\"&gt;&lt;/iframe&gt;&lt;/p&gt;",
+		"displayValue": "&lt;p&gt;&lt;iframe style=\"overflow: hidden; height: 1200px; width: 100%;\" src=\"$pa_dashboard.do?sysparm_dashboard=aed0954147e24a50bd3cb616536d43af&amp;amp;\" width=\"100%\" height=\"100%\" frameborder=\"0\"&gt;&lt;/iframe&gt;&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=97881dc947e24a50bd3cb616536d4307"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1742596148</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3633f11d47864290bd3cb616536d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 19:00:58</sys_created_on>
+        <sys_id>f2ec015f47e6c610bd3cb616536d43b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff41355c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 19:00:58</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>7aec015f5ce6c610240a18fcf31537b2</update_guid>
+        <update_guid_history>7aec015f5ce6c610240a18fcf31537b2:-1742596148,4cdc891f88e6c6101419d64480081103:-922026172,d79cc91fb8e6c6100d74569e187bd434:-1226409044,64d9118d35e24a500e9c9e6139c4bb77:1279115472,74c91d4dd5e24a5079d004f00bbc0552:724340310,60b9d54d55e24a50fceb8f81dfd19cf0:-961524516,2499554d42e24a5081082ff12e213d1a:-1297169690,9b59914d50e24a50d29e5787b00c96c0:-1489666632,dc09550d53e24a50735803ecfd28d81f:1648965580,37a8910d3ce24a50d9d305195e08110c:760973750,13881dc9e4e24a502956297e8c550e09:-114548644</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0c2b0937473e4e50bd3cb616536d4385</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 18:25:47</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>002442fc0fbc4d0280010f282d1bf961</sys_id>
+        <sys_metadata>97881dc947e24a50bd3cb616536d4307</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle and Inventory" source="x_1189834_loaner_0">3f037dd947864290bd3cb616536d4376</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle and Inventory">3f037dd947864290bd3cb616536d4376</sys_scope>
+        <sys_scope_delete display_value="">34a7200db04c4edc9a825da53589b664</sys_scope_delete>
+        <sys_update_name>sp_instance_97881dc947e24a50bd3cb616536d4307</sys_update_name>
+        <sys_update_version display_value="sp_instance_97881dc947e24a50bd3cb616536d4307">f2ec015f47e6c610bd3cb616536d43b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 18:25:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
